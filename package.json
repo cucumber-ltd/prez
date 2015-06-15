@@ -21,7 +21,7 @@
     "open": "0.0.5",
     "optimist": "^0.6.1",
     "rc": "^0.6.0",
-    "reveal.js": "^3.0.0",
+    "reveal.js": "git://github.com/cucumber-ltd/reveal.js.git",
     "serve-index": "^1.6.0",
     "serve-static": "^1.8.1",
     "tiny-lr": "^0.1.4",
