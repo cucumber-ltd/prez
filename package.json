@@ -16,7 +16,7 @@
     "highlight.js": "^8.4.0",
     "lodash": "^2.4.1",
     "marked": "^0.3.2",
-    "minimatch": "^2.0.1",
+    "minimatch": "^3.0.4",
     "node-watch": "^0.3.4",
     "open": "0.0.5",
     "optimist": "^0.6.1",
