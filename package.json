@@ -18,7 +18,7 @@
     "marked": "^0.3.2",
     "minimatch": "^2.0.1",
     "node-watch": "^0.3.4",
-    "open": "0.0.5",
+    "open": "7.3.0",
     "optimist": "^0.6.1",
     "rc": "^0.6.0",
     "reveal.js": "git://github.com/cucumber-ltd/reveal.js.git",
